@@ -1,0 +1,68 @@
+/* ESTILOS GENERALES */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1e2f3d;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 { font-size: 3.5em;}
+
+h2 { font-size: 2.7em;}
+
+h3 { font-size: 2em;}
+
+p { font-size: 1.25em;}
+
+ul { list-style: none;}
+
+li { font-size: 1.25em;}
+
+button {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    background-color: rgb(219, 219, 57);
+}
+
+button:hover {
+    background-color: rgb(156, 156, 33);
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.color-acento{ color: rgb(212, 212, 30);}
+
+header{
+    background-color: rgb(202, 202, 47);
+}
+
+header .logo{
+    margin: 0;
+    padding: 25px 30px;
+    width: 145px;
+}
+
+header .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
