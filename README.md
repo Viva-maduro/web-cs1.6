@@ -4,4 +4,5 @@
 
 ## Descripción
 Hcimos esta pagina web ya que nos encanta el videojuego counter strike 1.6 tambien llamado cs 1.6
-![Texto alternativo](ruta/a/la/imagen.png)
+![imagen](https://github.com/Viva-maduro/web-cs1.6/assets/98991125/0296caec-573a-4725-9c48-e3ee72d72602)
+
